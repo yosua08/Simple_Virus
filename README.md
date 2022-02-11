@@ -1,2 +1,7 @@
 # Simple_Virus
-This is simple virus. Use python language.
+
+Hi, saya Yozu.
+Source code ini sedikit berbahaya, ini dapat membuat perangkat anda error.
+Jadi berhati-hatilah ketika menggunakannya.
+
+--- SANGAT TIDAK DISARANKAN UNTUK MENJALANKANNYA ---
